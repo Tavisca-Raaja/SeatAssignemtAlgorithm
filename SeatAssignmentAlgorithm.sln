@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeatAssignmentAlgorithm", "SeatAssignmentAlgorithm\SeatAssignmentAlgorithm.csproj", "{F671B8B8-894C-43B4-B367-8361952557B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F671B8B8-894C-43B4-B367-8361952557B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F671B8B8-894C-43B4-B367-8361952557B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F671B8B8-894C-43B4-B367-8361952557B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F671B8B8-894C-43B4-B367-8361952557B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B57999BE-5078-4796-B63C-91B717B4E669}
+	EndGlobalSection
+EndGlobal
